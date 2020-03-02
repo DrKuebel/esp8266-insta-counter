@@ -7,10 +7,10 @@
 2. Hinzufügen des ESP-Boards über die Voreinstellung Zusätzliche Boardverwalter-URLS 
   http://arduino.esp8266.com/stable/package_esp8266com_index.json
 3. Installieren der benötigten Bibliotheken über Werkzeuge -> Bibliotheken verwalten
-   * InstagramStats
-   * Json Streaming Parser 
-   * ArduinoJSON
-   * WifiManager
+   * InstagramStats    https://github.com/witnessmenow/arduino-instagram-stats
+   * Json Streaming Parser    https://github.com/squix78/json-streaming-parser
+   * ArduinoJSON       https://github.com/bblanchon/ArduinoJson
+   * WifiManager       https://github.com/tzapu/WiFiManager
 4. Auswahl des "Board WeMos D1 R1" unter Werkzeuge -> Board 
 5. Download der letzten Version unter Release 
 6. FollowerCounter.ino in Arduino öffnen
